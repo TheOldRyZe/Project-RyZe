@@ -1,6 +1,3 @@
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -11,7 +8,7 @@
   <h3 align="center">RyZe</h3>
 
   <p align="center">
-    RyZe is  a powerful Antinuke Bot
+    RyZe is  a powerful music Bot
     <br />
     <br />
     <a href="https://github.com/OnceWasBiLLa/Project-RyZe">Report Bug & Request Feature</a>
@@ -86,11 +83,10 @@ Thank you for your interest in contributing to RyZe! Here are some guidelines to
 
 Your contribution will be reviewed by the project maintainers, and any necessary feedback or changes will be discussed with you. We appreciate your help in making RyZe better!
 
-## ☕ Donate
-
-Do you like this project? Support it by donating
-
-[![discord](https://discord.gg/packers)]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/packers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/packers" height="30" width="40" /></a>
+</p>
 
 ## 👥 Contributors
 
