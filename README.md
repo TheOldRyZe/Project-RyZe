@@ -11,7 +11,7 @@
   <h3 align="center">RyZe</h3>
 
   <p align="center">
-    RyZe is  a powerful music Bot
+    RyZe is  a powerful Antinuke Bot
     <br />
     <br />
     <a href="https://github.com/OnceWasBiLLa/Project-RyZe">Report Bug & Request Feature</a>
