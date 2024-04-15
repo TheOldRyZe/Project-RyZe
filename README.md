@@ -92,7 +92,6 @@ Thank you for your interest in contributing to RyZe! Here are some guidelines to
 
 Your contribution will be reviewed by the project maintainers, and any necessary feedback or changes will be discussed with you. We appreciate your help in making RyZe better!
 
-
 ## ☕ Donate
 
 Do you like this project? Support it by donating
