@@ -1,0 +1,7 @@
+tick = "✅"
+cross = "❌"
+loading = ""
+first = "⏮"
+previous = "⏪"
+next = "⏩"
+last = "⏭"
