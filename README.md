@@ -1,11 +1,5 @@
 
 
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,10 +8,10 @@
     <img src="https://cdn.discordapp.com/attachments/1229371303480524934/1229403900021313597/apple-touch-icon.png?ex=662f8e9a&is=661d199a&hm=018763dce1d66ff0b032f163a195f8cb3bd233c1858c19ab5b4ab3500007eb2a&" alt="Ryze" width="200" height="200">
   </a>
 
-  <h3 align="center">WaveMusic</h3>
+  <h3 align="center">RyZe</h3>
 
   <p align="center">
-    WaveMusic is  a powerful music Bot
+    RyZe is  a powerful music Bot
     <br />
     <br />
     <a href="https://github.com/OnceWasBiLLa/Project-RyZe">Report Bug & Request Feature</a>
@@ -96,7 +90,7 @@ Your contribution will be reviewed by the project maintainers, and any necessary
 
 Do you like this project? Support it by donating
 
-[![Discord](https://discord.gg/packers)]
+[![discord](https://discord.gg/packers)]
 
 ## 👥 Contributors
 
