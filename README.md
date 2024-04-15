@@ -88,9 +88,6 @@ Your contribution will be reviewed by the project maintainers, and any necessary
 <a href="https://discord.gg/https://discord.gg/packers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/packers" height="30" width="40" /></a>
 </p>
 
-## 👥 Contributors
-
-Thanks goes to these wonderful people :
 
 <a href="https://github.com/OnceWasBiLLa/Project-RyZe/graphs/contributors">
   <img src="https://img.shields.io/badge/Python_3.10-3" />
